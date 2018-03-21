@@ -1,2 +1,2 @@
 # dashboards
-A sandbox to play around with Plotly Dash
+A sandbox to play around with Plotly Dash.
